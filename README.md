@@ -6,7 +6,7 @@ Tidalbase is a pair-programming platform that effortlessly matches you for 1:1 c
 
 - **Sign up**  
   Get started in seconds—create your free account on Tidalbase:  
-  https://tidalbase.com/signup
+  https://tidalbase.com/accounts/signup/
 
 - **GitHub App: Tidalbase Endorse**  
   Install our [Tidalbase Endorse](https://github.com/apps/tidalbase-endorse) GitHub App to turn milestone PR approvals into public endorsements.  
